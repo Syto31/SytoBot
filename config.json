@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6281574843953@s.whatsapp.net"],
+    "ownerName": "Syto.31",
+    "instagram" : "https://instagram.com/syto_o",
+    "gcwa" : "https://chat.whatsapp.com/D2VD3wNgAYPHhpMObRObAn",
+    "botName": "Syto.Bot",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./DJ TEKI GAM by SYTOOO RMX.jpg",
+    "pathimg": "./0010_4.jpg",
+    "BotKey": "O3O6aiaZQWk4tcg",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./DJ TEKI TEKI GAM GAM BY SYTOOO RMX X.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
